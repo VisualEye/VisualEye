@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bensonkarki or Benson
-- 👀 I’m interested in anime, manga, working out, movies, crypto, coding, youtube, videogames, streaming
+- 👀 I’m interested in web development, crypto, programming, youtube, streaming, and basketball
 - 🌱 I’m currently learning HTML and CSS and blockchain coding in the future (I have previous experience with Java)
 - 💞️ I’m looking to collaborate on learning with others
 - 📫 How to reach me: email
