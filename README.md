@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bensonkarki or Benson
-- 👀 I’m interested in web development, crypto, programming, youtube, streaming, and basketball
-- 🌱 I’m currently learning HTML and CSS and blockchain coding in the future (I have previous experience with Java)
-- 💞️ I’m looking to collaborate on learning with others
-- 📫 How to reach me: email
+- 👋 Hi, I’m @bensonkarki or Benson, a 1y y/o senior at Clovis North High School
+- 👀 I’m interested in web development, crypto, ai, programming, youtube, streaming, and basketball
+- 🌱 I’m currently learning JavaScript for web development and have experience with Java, HTML, and CSS
+- 💭 In the future I want to work with blockchain or artificial intelligence technologies
+- 😉 Have a good day
 
 <!---
 bensonkarki/bensonkarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
