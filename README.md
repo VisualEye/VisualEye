@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bensonkarki or Benson, a 1y y/o senior at Clovis North High School
+- 👋 Hi, I’m @bensonkarki or Benson, a 17 y/o senior at Clovis North High School
 - 👀 I’m interested in web development, crypto, ai, programming, youtube, streaming, and basketball
 - 🌱 I’m currently learning JavaScript for web development and have experience with Java, HTML, and CSS
 - 💭 In the future I want to work with blockchain or artificial intelligence technologies
