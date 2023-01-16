@@ -1,4 +1,4 @@
-# Benson Karki ⚡
+# Benson Karki 🌩
 
 **`Programming Kid (High School Senior)`**
 
