@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bensonkarki&show_icons=true&locale=en" alt="bensonkarki" /></p>
 
 <h3 align="left">me:</h3>
-> ![](https://github.com/bensonkarki/Gifs/vile-lebron.gif)
+![](https://github.com/bensonkarki/Gifs/vile-lebron.gif)
