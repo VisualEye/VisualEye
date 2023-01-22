@@ -31,4 +31,4 @@
 
 <h3 align="left">me:</h3>
 
-![](https://github.com/bensonkarki/Gifs/batman.gif)
+![](batman.gif)
