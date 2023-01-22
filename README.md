@@ -21,7 +21,7 @@ I’m @bensonkarki or Benson, a 17 y/o senior at Clovis North High School. I’m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/benson karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benson karki" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/benson karki](https://www.linkedin.com/in/benson-karki-55092a245/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benson karki" height="30" width="40" /></a>
 <a href="https://instagram.com/benson_karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benson_karki" height="30" width="40" /></a>
 <a href="https://discord.gg/visualeye#8198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="visualeye" height="30" width="40" /></a>
 </p>
