@@ -11,13 +11,13 @@ I’m @bensonkarki or Benson, a 17 y/o senior at Clovis North High School. I’m
 <h1 align="center">Hi 👋, I'm Benson Karki</h1>
 <h3 align="center">A learning developer and student, determined to grow</h3>
 
-- Ⅱ I’m currently learning **JavaScript and jQuery**
+- Ⅰ I’m currently learning **JavaScript and jQuery**
 
-- Ⅳ To see my personal life [https://www.instagram.com/benson_karki/](https://www.instagram.com/benson_karki/)
+- Ⅱ To see my personal life [https://www.instagram.com/benson_karki/](https://www.instagram.com/benson_karki/)
 
-- Ⅴ Looking for opportunities! [https://www.linkedin.com/in/benson-karki-55092a245/](https://www.linkedin.com/in/benson-karki-55092a245/)
+- Ⅲ Looking for opportunities! [https://www.linkedin.com/in/benson-karki-55092a245/](https://www.linkedin.com/in/benson-karki-55092a245/)
 
-- Ⅲ How to reach me **thenextbrk@gmail.com**
+- Ⅳ How to reach me **thenextbrk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
