@@ -3,7 +3,7 @@
 <h3 align="center">a learning developer and student, determined to grow</h3>
 <h6 align="center">I’m @bensonkarki or Benson, a 17 y/o senior at Clovis North High School. I’m currently learning JavaScript for web development and have experience with Java, HTML, and CSS. I have built some websites you can check out below, and will work upload more projects over time. In the future I want to work with blockchain or artificial intelligence technologies. If you're seeing this from my college application, hello!!</h6>
 <br>
-<h3>what i'm doing</h3>
+<h3 align="center">what i'm doing</h3>
 - Ⅰ I’m currently learning **JavaScript and jQuery**
 
 - Ⅱ To see my personal life [https://www.instagram.com/benson_karki/](https://www.instagram.com/benson_karki/)
