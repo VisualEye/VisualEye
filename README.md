@@ -5,7 +5,7 @@
 
 
 <h3 align="center">what i'm doing (in 2023)</h3>
-<h1></h1>
+
 - Ⅰ I’m currently learning **JavaScript and jQuery**
 
 - Ⅱ To see my personal life [https://www.instagram.com/benson_karki/](https://www.instagram.com/benson_karki/)
