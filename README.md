@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Benson Karki</h1>
 <h3 align="center">a learning developer and student, determined to grow</h3>
 <h6 align="center">I’m @bensonkarki or Benson, a 17 y/o senior at Clovis North High School. I’m currently learning JavaScript for web development and have experience with Java, HTML, and CSS. I have built some websites you can check out below, and will work upload more projects over time. In the future I want to work with blockchain or artificial intelligence technologies. If you're seeing this from my college application, hello!!</h6>
-<br>
-<p align="center">
+
+
 - Ⅰ I’m currently learning **JavaScript and jQuery**
 
 - Ⅱ To see my personal life [https://www.instagram.com/benson_karki/](https://www.instagram.com/benson_karki/)
@@ -11,7 +11,7 @@
 - Ⅲ Looking for opportunities! [https://www.linkedin.com/in/benson-karki-55092a245/](https://www.linkedin.com/in/benson-karki-55092a245/)
 
 - Ⅳ How to reach me **thenextbrk@gmail.com**
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/benson-karki-55092a245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benson karki" height="30" width="40" /></a>
