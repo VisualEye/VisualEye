@@ -1,6 +1,5 @@
-**`Programming Kid (High School Senior)`**
-<h1 align="left">Hi 👋, I'm Benson Karki</h1>
-<h3 align="left">a learning developer and student, determined to grow:</h3>
+<h1 align="left">Hi, I'm Benson Karki</h1>
+<h3 align="left">A learning developer and student, determined to grow:</h3>
 <p align="left">I’m @bensonkarki or Benson, a 18 y/o freshman at Clovis Community College.</p>
 
 
