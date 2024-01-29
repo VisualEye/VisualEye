@@ -1,16 +1,14 @@
 **`Programming Kid (High School Senior)`**
 <h1 align="left">Hi 👋, I'm Benson Karki</h1>
 <h3 align="left">a learning developer and student, determined to grow:</h3>
-<p align="left">I’m @bensonkarki or Benson, a 17 y/o senior at Clovis North High School. I’m currently learning JavaScript for web development and have experience with Java, HTML, and CSS. I have built some websites you can check out below, and will work upload more projects over time. In the future I want to work with blockchain or artificial intelligence technologies. If you're seeing this from my college application, hello!!</p>
+<p align="left">I’m @bensonkarki or Benson, a 18 y/o freshman at Clovis Community College.</p>
 
 
 <h3 align="left">what i'm doing (in 2023):</h3>
 
-- Ⅰ I’m currently learning **JavaScript and jQuery**
+- Ⅰ I’m currently learning **C++**
 
 - Ⅱ To see my personal life [https://www.instagram.com/benson_karki/](https://www.instagram.com/benson_karki/)
-
-- Ⅲ Looking for opportunities! [https://www.linkedin.com/in/benson-karki-55092a245/](https://www.linkedin.com/in/benson-karki-55092a245/)
 
 - Ⅳ How to reach me **thenextbrk@gmail.com**
 
