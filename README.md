@@ -3,7 +3,7 @@
 <p align="left">I’m @bensonkarki or Benson, a 18 y/o freshman at Clovis Community College.</p>
 
 
-<h3 align="left">what i'm doing (in 2023):</h3>
+<h3 align="left">what i'm doing (in 2024):</h3>
 
 - Ⅰ I’m currently learning **C++**
 
