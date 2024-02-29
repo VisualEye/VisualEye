@@ -18,7 +18,5 @@
 <a href="https://twitter.com/bensonkarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bensonkarki" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">my stats (coding athlete):</h3>
+<h3 align="left">my stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bensonkarki&show_icons=true&locale=en&layout=compact" alt="bensonkarki" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bensonkarki&show_icons=true&locale=en" alt="bensonkarki" /></p>
