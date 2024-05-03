@@ -5,11 +5,11 @@
 
 <h3 align="left">what i'm doing (in 2024):</h3>
 
-- Ⅰ I’m currently learning **C++**
+- I’m currently learning **C++**
 
-- Ⅱ To see my personal life [https://www.instagram.com/benson_karki/](https://www.instagram.com/benson_karki/)
+- To see my personal life [https://www.instagram.com/benson_karki/](https://www.instagram.com/benson_karki/)
 
-- Ⅳ How to reach me **thenextbrk@gmail.com**
+- How to reach me **thenextbrk@gmail.com**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
