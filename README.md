@@ -1,6 +1,8 @@
 <h1 align="left">Hi, I'm Benson Karki</h1>
 <h3 align="left">A learning developer and student, determined to grow:</h3>
 <p align="left">I’m @bensonkarki or Benson, a 18 y/o freshman at Clovis Community College.</p>
+<p align="left">My other account: @karki_0978386</p>
+
 
 
 <h3 align="left">what i'm doing (in 2024):</h3>
